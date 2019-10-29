@@ -6,7 +6,7 @@ int main()
 {
 
  char secret[10];
- char version[3] = "1.0";
+ // char version[3] = "1.0";
  char password[10];
 
  memset(secret, 0, 10);
